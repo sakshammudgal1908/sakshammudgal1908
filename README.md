@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sakshammudgal1908
-- 👀 I’m interested in AI ML
+- 👀 I’m interested in innovations
 - 🌱 I’m currently learning Python
 - 📫 How to reach me sakshammudgal19@gmail.com
 
