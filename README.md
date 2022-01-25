@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sakshammudgal1908
+- 👋 Hi, I’m Saksham Mudgal
 - 👀 I’m interested in innovations
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and C
 - 📫 How to reach me sakshammudgal19@gmail.com
 
 <!---
